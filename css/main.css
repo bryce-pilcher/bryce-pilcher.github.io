@@ -49,12 +49,12 @@ footer {
     font-size: .8em;
 }
 
-ul.posts { 
+ul.posts, ul.reviews { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1em;
 }
 
-ul.posts li {
+ul.posts, ul.reviews li {
     list-style: none;
 }
 

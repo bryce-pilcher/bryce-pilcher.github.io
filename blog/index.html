@@ -2,12 +2,18 @@
 layout: default
 title: Bryce Pilcher's Blog
 ---
-	<h1>{{ page.title }}</h1>
+	<h2>{{ page.title }}</h2>
+		<p>Here is a collection of thoughts, topics, and other ideas.  I believe that I retain information better when I write it done or *attempt* to relay it to others, and this is a place for me to do just that.</p> 
+		
+		<p>Please enjoy and reach out with any questions or comments.</p>
+	
+		<p>Cheers!</p>
+
 	<ul class="posts">
 
 	  {% for post in site.posts %}
 		{% if post.category == 'blog' %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  	{% endif %}
 	  {% endfor %}
 	</ul>
