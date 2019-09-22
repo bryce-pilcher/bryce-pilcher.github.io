@@ -1,10 +1,6 @@
 # Bryce Pilcher
 
-Bryce is a graduate student at North Carolina State University.  He will complete a Master's of Computer Science in May of 2017 with a focus in Networking.  Bryce completed his undergraduate studies at NCSU as well with a focus in networking and security.  View his [LinkedIn Profile](https://www.linkedin.com/in/brycepilcher/).
-
-#### Currently Enrolled Courses:
-* CSC 776 - Network Performance and Evaluation
-* CSC 591 - (Special Topics) Reliable Software Systems
+Bryce is a Software Engineer at [Elder Research, Inc](https://www.elderresearch.com/).  He completed a Master's of Computer Science in May of 2017 with a focus in Networking.  Bryce completed his undergraduate studies at NCSU as well with a focus in networking and security.  View his [LinkedIn Profile](https://www.linkedin.com/in/brycepilcher/).
 
 #### Completed Graduate Courses:
 * CSC 570 - Computer Networks
@@ -15,3 +11,5 @@ Bryce is a graduate student at North Carolina State University.  He will complet
 * CSC 540 - Database Management Systems
 * CSC 579 - Introduction to Computing Performance
 * CSC 775 - Advanced Wireless Networking
+* CSC 776 - Network Performance and Evaluation
+* CSC 591 - (Special Topics) Reliable Software Systems
